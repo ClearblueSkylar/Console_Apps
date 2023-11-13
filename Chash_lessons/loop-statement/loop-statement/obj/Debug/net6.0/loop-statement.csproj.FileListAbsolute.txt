@@ -1,0 +1,14 @@
+C:\Users\2013.102528\Desktop\Chash_lessons\loop-statement\loop-statement\bin\Debug\net6.0\loop-statement.exe
+C:\Users\2013.102528\Desktop\Chash_lessons\loop-statement\loop-statement\bin\Debug\net6.0\loop-statement.deps.json
+C:\Users\2013.102528\Desktop\Chash_lessons\loop-statement\loop-statement\bin\Debug\net6.0\loop-statement.runtimeconfig.json
+C:\Users\2013.102528\Desktop\Chash_lessons\loop-statement\loop-statement\bin\Debug\net6.0\loop-statement.dll
+C:\Users\2013.102528\Desktop\Chash_lessons\loop-statement\loop-statement\bin\Debug\net6.0\loop-statement.pdb
+C:\Users\2013.102528\Desktop\Chash_lessons\loop-statement\loop-statement\obj\Debug\net6.0\loop-statement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2013.102528\Desktop\Chash_lessons\loop-statement\loop-statement\obj\Debug\net6.0\loop-statement.AssemblyInfoInputs.cache
+C:\Users\2013.102528\Desktop\Chash_lessons\loop-statement\loop-statement\obj\Debug\net6.0\loop-statement.AssemblyInfo.cs
+C:\Users\2013.102528\Desktop\Chash_lessons\loop-statement\loop-statement\obj\Debug\net6.0\loop-statement.csproj.CoreCompileInputs.cache
+C:\Users\2013.102528\Desktop\Chash_lessons\loop-statement\loop-statement\obj\Debug\net6.0\loop-statement.dll
+C:\Users\2013.102528\Desktop\Chash_lessons\loop-statement\loop-statement\obj\Debug\net6.0\refint\loop-statement.dll
+C:\Users\2013.102528\Desktop\Chash_lessons\loop-statement\loop-statement\obj\Debug\net6.0\loop-statement.pdb
+C:\Users\2013.102528\Desktop\Chash_lessons\loop-statement\loop-statement\obj\Debug\net6.0\loop-statement.genruntimeconfig.cache
+C:\Users\2013.102528\Desktop\Chash_lessons\loop-statement\loop-statement\obj\Debug\net6.0\ref\loop-statement.dll

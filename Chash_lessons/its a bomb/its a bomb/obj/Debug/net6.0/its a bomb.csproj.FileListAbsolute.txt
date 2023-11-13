@@ -1,0 +1,14 @@
+C:\Users\2013.102528\Desktop\Chash_lessons\its a bomb\its a bomb\bin\Debug\net6.0\its a bomb.exe
+C:\Users\2013.102528\Desktop\Chash_lessons\its a bomb\its a bomb\bin\Debug\net6.0\its a bomb.deps.json
+C:\Users\2013.102528\Desktop\Chash_lessons\its a bomb\its a bomb\bin\Debug\net6.0\its a bomb.runtimeconfig.json
+C:\Users\2013.102528\Desktop\Chash_lessons\its a bomb\its a bomb\bin\Debug\net6.0\its a bomb.dll
+C:\Users\2013.102528\Desktop\Chash_lessons\its a bomb\its a bomb\bin\Debug\net6.0\its a bomb.pdb
+C:\Users\2013.102528\Desktop\Chash_lessons\its a bomb\its a bomb\obj\Debug\net6.0\its a bomb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2013.102528\Desktop\Chash_lessons\its a bomb\its a bomb\obj\Debug\net6.0\its a bomb.AssemblyInfoInputs.cache
+C:\Users\2013.102528\Desktop\Chash_lessons\its a bomb\its a bomb\obj\Debug\net6.0\its a bomb.AssemblyInfo.cs
+C:\Users\2013.102528\Desktop\Chash_lessons\its a bomb\its a bomb\obj\Debug\net6.0\its a bomb.csproj.CoreCompileInputs.cache
+C:\Users\2013.102528\Desktop\Chash_lessons\its a bomb\its a bomb\obj\Debug\net6.0\its a bomb.dll
+C:\Users\2013.102528\Desktop\Chash_lessons\its a bomb\its a bomb\obj\Debug\net6.0\refint\its a bomb.dll
+C:\Users\2013.102528\Desktop\Chash_lessons\its a bomb\its a bomb\obj\Debug\net6.0\its a bomb.pdb
+C:\Users\2013.102528\Desktop\Chash_lessons\its a bomb\its a bomb\obj\Debug\net6.0\its a bomb.genruntimeconfig.cache
+C:\Users\2013.102528\Desktop\Chash_lessons\its a bomb\its a bomb\obj\Debug\net6.0\ref\its a bomb.dll

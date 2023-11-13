@@ -1,0 +1,14 @@
+C:\Users\2013.102528\Desktop\Chash_lessons\oddeven\oddeven\bin\Debug\net6.0\oddeven.exe
+C:\Users\2013.102528\Desktop\Chash_lessons\oddeven\oddeven\bin\Debug\net6.0\oddeven.deps.json
+C:\Users\2013.102528\Desktop\Chash_lessons\oddeven\oddeven\bin\Debug\net6.0\oddeven.runtimeconfig.json
+C:\Users\2013.102528\Desktop\Chash_lessons\oddeven\oddeven\bin\Debug\net6.0\oddeven.dll
+C:\Users\2013.102528\Desktop\Chash_lessons\oddeven\oddeven\bin\Debug\net6.0\oddeven.pdb
+C:\Users\2013.102528\Desktop\Chash_lessons\oddeven\oddeven\obj\Debug\net6.0\oddeven.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2013.102528\Desktop\Chash_lessons\oddeven\oddeven\obj\Debug\net6.0\oddeven.AssemblyInfoInputs.cache
+C:\Users\2013.102528\Desktop\Chash_lessons\oddeven\oddeven\obj\Debug\net6.0\oddeven.AssemblyInfo.cs
+C:\Users\2013.102528\Desktop\Chash_lessons\oddeven\oddeven\obj\Debug\net6.0\oddeven.csproj.CoreCompileInputs.cache
+C:\Users\2013.102528\Desktop\Chash_lessons\oddeven\oddeven\obj\Debug\net6.0\oddeven.dll
+C:\Users\2013.102528\Desktop\Chash_lessons\oddeven\oddeven\obj\Debug\net6.0\refint\oddeven.dll
+C:\Users\2013.102528\Desktop\Chash_lessons\oddeven\oddeven\obj\Debug\net6.0\oddeven.pdb
+C:\Users\2013.102528\Desktop\Chash_lessons\oddeven\oddeven\obj\Debug\net6.0\oddeven.genruntimeconfig.cache
+C:\Users\2013.102528\Desktop\Chash_lessons\oddeven\oddeven\obj\Debug\net6.0\ref\oddeven.dll

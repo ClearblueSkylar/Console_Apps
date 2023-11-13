@@ -1,0 +1,14 @@
+C:\Users\2013.102528\Desktop\Chash_lessons\asstill\asstill\bin\Debug\net6.0\asstill.exe
+C:\Users\2013.102528\Desktop\Chash_lessons\asstill\asstill\bin\Debug\net6.0\asstill.deps.json
+C:\Users\2013.102528\Desktop\Chash_lessons\asstill\asstill\bin\Debug\net6.0\asstill.runtimeconfig.json
+C:\Users\2013.102528\Desktop\Chash_lessons\asstill\asstill\bin\Debug\net6.0\asstill.dll
+C:\Users\2013.102528\Desktop\Chash_lessons\asstill\asstill\bin\Debug\net6.0\asstill.pdb
+C:\Users\2013.102528\Desktop\Chash_lessons\asstill\asstill\obj\Debug\net6.0\asstill.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2013.102528\Desktop\Chash_lessons\asstill\asstill\obj\Debug\net6.0\asstill.AssemblyInfoInputs.cache
+C:\Users\2013.102528\Desktop\Chash_lessons\asstill\asstill\obj\Debug\net6.0\asstill.AssemblyInfo.cs
+C:\Users\2013.102528\Desktop\Chash_lessons\asstill\asstill\obj\Debug\net6.0\asstill.csproj.CoreCompileInputs.cache
+C:\Users\2013.102528\Desktop\Chash_lessons\asstill\asstill\obj\Debug\net6.0\asstill.dll
+C:\Users\2013.102528\Desktop\Chash_lessons\asstill\asstill\obj\Debug\net6.0\refint\asstill.dll
+C:\Users\2013.102528\Desktop\Chash_lessons\asstill\asstill\obj\Debug\net6.0\asstill.pdb
+C:\Users\2013.102528\Desktop\Chash_lessons\asstill\asstill\obj\Debug\net6.0\asstill.genruntimeconfig.cache
+C:\Users\2013.102528\Desktop\Chash_lessons\asstill\asstill\obj\Debug\net6.0\ref\asstill.dll

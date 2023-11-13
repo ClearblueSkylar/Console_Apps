@@ -1,0 +1,14 @@
+C:\Users\2013.102528\Desktop\Chash_lessons\dsdyjtjyukm\dsdyjtjyukm\bin\Debug\net6.0\dsdyjtjyukm.exe
+C:\Users\2013.102528\Desktop\Chash_lessons\dsdyjtjyukm\dsdyjtjyukm\bin\Debug\net6.0\dsdyjtjyukm.deps.json
+C:\Users\2013.102528\Desktop\Chash_lessons\dsdyjtjyukm\dsdyjtjyukm\bin\Debug\net6.0\dsdyjtjyukm.runtimeconfig.json
+C:\Users\2013.102528\Desktop\Chash_lessons\dsdyjtjyukm\dsdyjtjyukm\bin\Debug\net6.0\dsdyjtjyukm.dll
+C:\Users\2013.102528\Desktop\Chash_lessons\dsdyjtjyukm\dsdyjtjyukm\bin\Debug\net6.0\dsdyjtjyukm.pdb
+C:\Users\2013.102528\Desktop\Chash_lessons\dsdyjtjyukm\dsdyjtjyukm\obj\Debug\net6.0\dsdyjtjyukm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2013.102528\Desktop\Chash_lessons\dsdyjtjyukm\dsdyjtjyukm\obj\Debug\net6.0\dsdyjtjyukm.AssemblyInfoInputs.cache
+C:\Users\2013.102528\Desktop\Chash_lessons\dsdyjtjyukm\dsdyjtjyukm\obj\Debug\net6.0\dsdyjtjyukm.AssemblyInfo.cs
+C:\Users\2013.102528\Desktop\Chash_lessons\dsdyjtjyukm\dsdyjtjyukm\obj\Debug\net6.0\dsdyjtjyukm.csproj.CoreCompileInputs.cache
+C:\Users\2013.102528\Desktop\Chash_lessons\dsdyjtjyukm\dsdyjtjyukm\obj\Debug\net6.0\dsdyjtjyukm.dll
+C:\Users\2013.102528\Desktop\Chash_lessons\dsdyjtjyukm\dsdyjtjyukm\obj\Debug\net6.0\refint\dsdyjtjyukm.dll
+C:\Users\2013.102528\Desktop\Chash_lessons\dsdyjtjyukm\dsdyjtjyukm\obj\Debug\net6.0\dsdyjtjyukm.pdb
+C:\Users\2013.102528\Desktop\Chash_lessons\dsdyjtjyukm\dsdyjtjyukm\obj\Debug\net6.0\dsdyjtjyukm.genruntimeconfig.cache
+C:\Users\2013.102528\Desktop\Chash_lessons\dsdyjtjyukm\dsdyjtjyukm\obj\Debug\net6.0\ref\dsdyjtjyukm.dll
